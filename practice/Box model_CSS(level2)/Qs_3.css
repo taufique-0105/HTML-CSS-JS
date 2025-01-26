@@ -1,0 +1,5 @@
+li{
+    display: inline;
+}
+/* li(list items) have their display property set to "list-item" by default which makes them a bulleted list them.
+when this property is reset by you to "inline", then the bullet points also disappear. in a way, we overide the default settings with our CSS */

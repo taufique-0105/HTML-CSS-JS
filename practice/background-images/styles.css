@@ -1,0 +1,13 @@
+div{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    background-color: #7aa874;
+    border: 2px solid black;
+    margin: 10px auto;
+    background-image: url(images/image.avif);
+    /* background-size: contain; */
+    background-size: cover;
+    /* background-size: auto; */
+    color: black;
+}

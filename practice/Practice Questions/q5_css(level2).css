@@ -1,0 +1,43 @@
+
+/* Part A */
+/* Qs.1 */
+h1{
+    color: blue;
+}
+/* Qs.2*/
+* {
+    text-align: center;
+}
+
+/* Qs.3 */
+h1,h3,h5{
+    font-style: georgia;
+}
+/* .Qs.4 */
+p{
+    background-color: cornflowerblue;
+    color: white;
+}
+/* Qs.5 */
+div button{
+    background-color: purple;
+    color: azure;
+}
+/* Part B */
+/* Qs.6 */
+button:hover{
+    background-color: yellow;
+    color: blue;
+}
+/* Qs.7 */
+p:nth-of-type(2n-1){
+    color: yellow;
+}
+/* Qs.8 */
+h1::first-letter{
+    color: red;
+}
+/* Qs.9 */
+#No:checked + label{
+    color: darkgreen;
+}

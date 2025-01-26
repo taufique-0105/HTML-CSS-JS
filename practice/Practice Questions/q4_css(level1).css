@@ -1,0 +1,33 @@
+/* simply add the background color in the body tag. */
+p{
+    /* create a separate CSS file and link it with your html code. in the CSS file write the following code
+    qs..2 to 10 */
+
+        color: brown;
+        text-align: center;
+        line-height: 30px;
+    
+}
+h1{
+    text-align: center;
+    color: red;
+    font-family: georgia;
+}
+h3{
+    text-align: center;
+    color: black;
+}
+a{
+text-decoration: none;
+color: green;
+}
+button{
+    background-color: white;
+    color: blueviolet;
+}
+textarea{
+    color: black;
+}
+span{
+    text-decoration:underline;
+}

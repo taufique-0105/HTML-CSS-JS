@@ -1,0 +1,50 @@
+/* h1{
+    display: inline;
+    background-color: cadetblue;
+}
+span{
+    display: block;
+    background-color: crimson;
+} */
+
+
+/* span{
+    background-color: limegreen;
+    border: 2px solid black;
+    height: 100px;
+    width: 200px;
+     padding: 10px;  /* left and right set */
+/* }
+div{
+    background-color: limegreen;
+    border: 2px solid black;
+    height: 100px;
+    width: 200px;
+     padding: 10px; 
+} */ 
+
+
+/* div{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+border: 2px solid black;
+margin: 5px;
+display: inline-block;
+}
+h1{
+    border:2px solid black ;
+    width: 50%;
+} */
+#outer{
+    height: 400px;
+    width: 400px;
+        background-color: aquamarine;
+        margin: 50px;
+    }
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    margin-left: 10%px;
+}
